@@ -1,0 +1,5 @@
+file 1 ---> configuration
+file 2 ---> register page
+file 3 ---> login page
+file 4 ---> welcome page
+file 5 ---> logout page

@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(red, green, blue);
+}
+
+form{
+    background-color: rgb(210, 210, 210);
+    width: 30%;
+    margin:100px auto;
+    padding:30px;
+    border:1px solid rgba(0, 92, 158, 0.621);
+}
+
+input{
+    width:100%;
+    border: 1px solid #a4a4a4;
+    display: block;
+    padding:5px 10px;
+
+}
+button{
+    border:none;
+    padding:10px;
+    border-radius: 10px;
+}
