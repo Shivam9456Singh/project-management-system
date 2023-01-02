@@ -40,17 +40,15 @@ all users with uploaded Projects
 
 
 ------ Demo video of Project Management System ---------
-
- # [--Website Demo--](https://drive.google.com/file/d/1r9SlSwVeCxWmyNeuO73LqU0iO_0jXPRS/view?usp=sharing)
+ [--Demo Video--](https://drive.google.com/file/d/1r9SlSwVeCxWmyNeuO73LqU0iO_0jXPRS/view?usp=sharing)
 
 
 
 This was a demo of fully working php project management system with database.
 Hope this will look impressive , wanted to work more on this project but due to lack of time it was this much completed after a lot of efforts and the great thing is it is smoothly working with no errors at all.
 
-# Thankyou Team for this Opportunity.
-# I am really looking forward to be an enthusiastic member of your developer Team.
+Thankyou Team for this Opportunity.
+I am really looking forward to be an enthusiastic member of your developer Team.
 
 ------ Demo video of Project Management System ---------
-
- # [--Website Demo--](https://drive.google.com/file/d/1r9SlSwVeCxWmyNeuO73LqU0iO_0jXPRS/view?usp=sharing)
+[--Website Demo--](https://drive.google.com/file/d/1r9SlSwVeCxWmyNeuO73LqU0iO_0jXPRS/view?usp=sharing)
