@@ -3,3 +3,8 @@ file 2 ---> register page
 file 3 ---> login page
 file 4 ---> welcome page
 file 5 ---> logout page
+
+configuration page is connecting our php file to phpmyadmin server for the database.
+resiter page is initially our home page as a new user have to register for the first time and then it will redirect to login page where a user have to login to their account.
+after logging in it will redirect user to welcome page where a greeting pop up will appear and the user will get the option to upload his/her project files with username start date and deadline .
+all the user data and his project files will get recorded in owners database and the owner will only have the choice to delete or add a user furthur . 
