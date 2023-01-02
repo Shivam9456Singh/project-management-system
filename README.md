@@ -31,12 +31,10 @@ step -3 Welcome page to upload Projects.
 # Databases
 
 all users registered 
-![allusersfinal](https://user-images.githubusercontent.com/113454708/210197578-a242285e-4e7b-4912-8cbf-21829072c14e.png)
 
+![Screenshot_20230102_113611](https://user-images.githubusercontent.com/113454708/210199301-08053c96-c0c0-482c-a702-6fe627812e8e.png)
 
 all users with uploaded Projects 
 
-![allprojectsfinal](https://user-images.githubusercontent.com/113454708/210199157-52cd69d3-2852-4d40-baf0-5755e8ef1ebc.png)
-
-
+![Screenshot_20230102_113534](https://user-images.githubusercontent.com/113454708/210199312-11ba3bd7-57b2-4439-ac18-74772f287fa1.png)
 
