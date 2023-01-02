@@ -25,12 +25,11 @@ step -3 Welcome page to upload Projects.
 #Example 2
 
 
-Databases 
-#all users registered 
+#Databases 
+all users registered 
 
 ![all users](https://user-images.githubusercontent.com/113454708/210196767-3f58f991-ca63-4828-b106-b0e84b3c2a16.png)
-
-# all users with uploaded Projects 
+all users with uploaded Projects 
 
 ![all projects](https://user-images.githubusercontent.com/113454708/210196860-ad338483-3daf-4048-9286-777e679c5d32.png)
 
