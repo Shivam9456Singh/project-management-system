@@ -38,3 +38,9 @@ all users with uploaded Projects
 
 ![Screenshot_20230102_113534](https://user-images.githubusercontent.com/113454708/210199312-11ba3bd7-57b2-4439-ac18-74772f287fa1.png)
 
+
+
+This was a demo of fully working php project management system with database.
+
+# Hope this will look impressive , wanted to work more on this project but due to lack of time it was this much completed after a lot of efforts.
+
